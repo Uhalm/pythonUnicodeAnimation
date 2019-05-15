@@ -2,7 +2,9 @@
 This is a python library for animating unicode and ascii stored in text files. 
 
 # Syntax
-The syntax is animation.anime(filesList, sleepTime, clearCommand)
+import animation
+
+animation.anime(filesList, sleepTime, clearCommand)
 
 # Example Code
 

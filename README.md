@@ -1,5 +1,6 @@
 # unicodeAnimation
 This is a python library for animating unicode and ascii stored in text files. 
+If you wish to use a image use a JPEG to Text converter and paste it in a text file.
 
 # Syntax
 import animation

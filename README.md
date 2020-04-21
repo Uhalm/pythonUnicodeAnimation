@@ -15,6 +15,6 @@ frames = ["frame1.txt", "frame2.txt", "frame3.txt"] #a list of files holding eac
 
 clear = 'clear' #the clear command for the operating systems terminal
 
-sleepTime = 1 
+sleepTime = 1 #the time between frames
 
 animation.anime(frames, sleepTime, clear)
